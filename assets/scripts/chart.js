@@ -1,7 +1,7 @@
 /*!
  * Chart.js v3.9.1
  * https://www.chartjs.org
- * (c) 2022 Chart.js Contributors
+ * (c) 2024 Chart.js Contributors
  * Released under the MIT License
  */
 !(function (t, e) {
@@ -482,7 +482,7 @@
   /*!
    * @kurkle/color v0.2.1
    * https://github.com/kurkle/color#readme
-   * (c) 2022 Jukka Kurkela
+   * (c) 2024 Jukka Kurkela
    * Released under the MIT License
    */ function bt(t) {
     return (t + 0.5) | 0;
