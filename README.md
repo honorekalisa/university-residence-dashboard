@@ -6,8 +6,8 @@ The University Residence Management System Dashboard is a comprehensive and intu
 
 ## 📂 Submission
 
-- **Repository Link**: (Click Here)[https://github.com/honorekalisa/university-residence-dashboard]
-- (Deployed Dashboard link)[https://honorekalisa.github.io/university-residence-dashboard/]
+- **Repository Link**: [Click Here](https://github.com/honorekalisa/university-residence-dashboard)
+- [Deployed Dashboard link](https://honorekalisa.github.io/university-residence-dashboard/)
 
 ## 👥 Team Members
 
